@@ -1,8 +1,23 @@
 {
   "name"        : "Richard",
-  "age"         : "18 years old",
+  "age"         : 18,
   "address"     : "richardcen24@gmail.com",
-  "is_married"  : false,
   "hobbies"     : ["music", "desain", "gaming"],
+  "is_married"  : false,
+  "list_school" : 
+      {"SHS" : 
+         {"name"     : "SMA Dharma Putra",
+          "year_in"  : 2016,
+          "year_out" : 2019,
+          "major"    : "science"},
+       "College" :
+         {"name"     : "Bunda Mulia University",
+          "year_in"  : 2019,
+          "year_out" : 2020,
+          "major"    : "S1 Digital Business"}
+      },
+ 
+    
+       
    
  }
