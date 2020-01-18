@@ -16,8 +16,16 @@
           "year_out" : 2020,
           "major"    : "S1 Digital Business"}
       },
- 
-    
-       
-   
- }
+  "skills" : 
+  {"Skill_1" : 
+   {
+    "skill_name" : "Microsoft Office",
+    "level"      : "advanced"},
+   "Skill_2" :
+   {
+    "skill_name" : "Adobe Photoshop & Illustrator",
+    "level"      : "beginner"}
+  },
+  "interest_in_coding" : true
+  
+}
