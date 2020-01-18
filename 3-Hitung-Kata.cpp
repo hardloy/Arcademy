@@ -31,6 +31,6 @@ int main()
             }
             cout << kata[a];
       }
-      getch();
+      
       return 0;
 }
