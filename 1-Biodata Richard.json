@@ -1,0 +1,8 @@
+{
+  "name"        : "Richard",
+  "age"         : "18 years old",
+  "address"     : "richardcen24@gmail.com",
+  "is_married"  : false,
+  "hobbies"     : ["music", "desain", "gaming"],
+   
+ }
